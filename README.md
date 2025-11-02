@@ -202,21 +202,6 @@ GreenLens-AI/
     └── greenlens_v1.h5
 ```
 
----
-
-## 🎨 Sample Outputs
-
-### Training Progress
-![Training History](results/training_curves.png)
-
-### Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
-
-### Prediction Examples
-![Sample Predictions](results/sample_predictions.png)
-
----
-
 ## 🌍 Environmental Impact
 
 ### Why GreenLens AI Matters
